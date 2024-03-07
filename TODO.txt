@@ -1,0 +1,28 @@
+ 
+1. Figure out which pins connect to the LED matrix IC (DONE - PB10-13)
+2. Connect the nets from the switch matrix to the MCU (DONE)
+3. Should I use "Dumb" RGB or "Smart" RGB?
+4. Come up with a better name for the keyboard
+5. How to program with SWD (Debug pins)?
+6. Do I need an external clock?
+7. Review on discord.
+
+color layouts:
+https://www.etsy.com/listing/1192022661/135pcs-shoko-theme-keycap-set-blue-color
+https://www.reddit.com/r/MechGroupBuys/comments/fy0sec/gb_gmk_shoko_april_9_june_12_2020/
+
+List of LEDS: 
+	6028R, https://www.aliexpress.com/i/3256805071658294.html?gatewayAdapt=4itemAdapt
+	SK6812, 5mm^2
+	sk6812mini-e, 3.5mm^2, $17.24, https://www.diykeyboards.com/parts/product/sk6812-mini-e-rgb-led
+	ws2813b, 
+	MHT151
+
+PD0 is OSC_in
+PD1 is OSC_out
+
+PC13 is Tamper_RTC
+PC14 is OSC32_in
+PC15 is OSC32_out
+
+programming via SWD
