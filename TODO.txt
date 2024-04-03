@@ -3,10 +3,16 @@
 2. Connect the nets from the switch matrix to the MCU (DONE)
 3. Should I use "Dumb" RGB or "Smart" RGB?  (Smart)
 4. Come up with a better name for the keyboard (Done Kaiso!)
-5. How to program with SWD (Debug pins)?
+5. How to program with SWD (Debug pins)? use Boot0 to pull high and program with usb
+5.5 what is VA (Voltage Analog) / Ferrite bead is 120 Ohms at 100MHz
 6. Do I need an external clock?
 6.5 Is this voltage regulator enough?
+6.6 how many RGB can I power?
 7. Review on discord.
+
+IF BOOT0 is pulled high it enables interfaces (UART, I2C, USB) to be able to program the MCU. It
+will appear as a programmable device if drivers are installed and boot0 is pulled high. If boot0 is
+pulled low, it will run the program that is flashed to it.
 
 color layouts:
 https://www.etsy.com/listing/1192022661/135pcs-shoko-theme-keycap-set-blue-color
@@ -33,7 +39,7 @@ aluminum case would cost $475.60? wow $58/lb
 
 FerriteBead is 120 Ohms by 100 Mhz
 
-look at nrst abnd boot 19:00
+look at nrst and boot 19:00
 
 Oscillator design guide AN2867
 
