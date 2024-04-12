@@ -3108,7 +3108,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 171190d3-4c95-46ca-ae17-32c737124306)
-    (at 508.28 468.625)
+    (at 501.6 461.2)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8152,7 +8152,7 @@
 
   (footprint "Inductor_SMD:L_0603_1608Metric" (layer "F.Cu")
     (tstamp 3dd164f1-2fc8-40e1-a50c-bf89d9bb15ab)
-    (at 515.32 487.125 -90)
+    (at 515.8 486.5 -90)
     (descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "inductor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15258,7 +15258,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 7c1eb402-457f-4bc6-8cd9-4a687e078dbe)
-    (at 535.08 469.625 -90)
+    (at 537.74 456.5 -90)
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x04 2.54mm single row")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15326,7 +15326,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 7c798456-bb2e-455a-96a3-d871321e24bc)
-    (at 512.8 486.125 180)
+    (at 513.28 485.5 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20088,7 +20088,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 9ddc77a0-0ec3-4ec9-a959-68674eb886db)
-    (at 512.8 488.125 180)
+    (at 513.28 487.5 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20651,7 +20651,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp a1f20c74-e6cd-4ca0-934b-3542ec352711)
-    (at 504.28 466.625)
+    (at 497.6 456.96)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30790,7 +30790,7 @@
 
   (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (layer "F.Cu")
     (tstamp fad6e1e7-41bb-4d0a-933a-ed83ba275fdb)
-    (at 536.28 480.125 90)
+    (at 545.7 473.6 90)
     (descr "JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST SH top entry")
     (property "Sheetfile" "kaiso.kicad_sch")
