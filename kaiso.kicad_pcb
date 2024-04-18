@@ -665,7 +665,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 024e7cc9-4b4e-4aa1-8696-70740140898d)
-    (at 331.125 336.55)
+    (at 380 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -782,7 +782,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp 0307cfa5-cb8c-4fed-ba97-9908d55b4cdc)
-    (at 502.28 482.325 90)
+    (at 321.25 214.2 90)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -1680,7 +1680,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 0b342344-b1cf-4e81-80ad-8201d2e2f827)
-    (at 371.525 356.75)
+    (at 536.525 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -1797,7 +1797,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 0c6c35c8-fa07-40ef-8bc0-857aac903cfb)
-    (at 290.725 376.95)
+    (at 318 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2045,7 +2045,7 @@
 
   (footprint "Capacitor_SMD:C_0201_0603Metric" (layer "F.Cu")
     (tstamp 0dfe2d35-c6d7-4b11-a508-176ce33e5b2b)
-    (at 502.28 480.325 -90)
+    (at 321.25 212.2 -90)
     (descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2205,7 +2205,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 0e701b58-883c-404e-88d7-cdb641d1334d)
-    (at 222 119.7 90)
+    (at 221 118.52 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2643,7 +2643,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 13cfb061-85d8-492b-a5fd-a288cac87133)
-    (at 371.525 417.35)
+    (at 263.25 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2814,7 +2814,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 1444c2cb-095e-410f-9473-35240bd02b59)
-    (at 310.925 275.95)
+    (at 432 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2931,7 +2931,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 15e43a85-f6e4-4381-90a3-ebd7386edcd4)
-    (at 310.925 356.75)
+    (at 517.5 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3108,7 +3108,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 171190d3-4c95-46ca-ae17-32c737124306)
-    (at 501.6 461.2)
+    (at 313.75 211.5)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3222,7 +3222,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 18075edd-f50f-4829-a54d-22144d0be52c)
-    (at 391.8 234.58)
+    (at 403.75 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3681,7 +3681,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 1c7809e9-b550-45a5-bfef-019a2ca49c4f)
-    (at 331.125 316.35)
+    (at 360.975 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3798,7 +3798,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 1ce1c23b-1bf6-486c-a056-07b747079a09)
-    (at 526.76 477.125 -90)
+    (at 368.0675 205 -90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3984,7 +3984,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 205c65ec-0fea-4ee6-9760-ee802af95181)
-    (at 371.525 296.15)
+    (at 479.68 194.18)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -4267,7 +4267,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 21b26664-f352-4511-994e-37e10f74c00a)
-    (at 351.325 316.35)
+    (at 275.31 194.22)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -4444,7 +4444,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 22e54c46-0389-4339-9c69-a9ebe8e51aae)
-    (at 310.925 255.75)
+    (at 412.975 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -4561,7 +4561,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 235f7227-a9aa-44d2-a969-ff3c4626ea3b)
-    (at 391.725 316.35)
+    (at 479.75 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -4678,7 +4678,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 237a6586-0c9a-4b23-aeb3-baa1d2f1d19a)
-    (at 250.325 376.95)
+    (at 213.475 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -4795,7 +4795,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 23a7cabf-25c6-42d7-85a3-cb310f0d26a9)
-    (at 508.28 476.125 90)
+    (at 349 203.25 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5017,7 +5017,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 2457fc69-1bd4-48b5-8f34-90b4c71a863e)
-    (at 290.725 255.75)
+    (at 536.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5194,7 +5194,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 25c2071d-6a0d-49db-aac0-ae712b9268eb)
-    (at 270.525 417.35)
+    (at 469.975 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5569,7 +5569,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 299cbcb0-16c0-404f-a134-7092e753dbc8)
-    (at 270.525 356.75)
+    (at 403.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5800,7 +5800,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 2b1b0dca-34cf-4db8-8292-269c09dc8e59)
-    (at 331.125 296.15)
+    (at 341.975 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6148,7 +6148,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 2ef467b5-98b8-4e99-b870-3b2e9d53a98f)
-    (at 523.76 487.125 180)
+    (at 365.0675 215 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6328,7 +6328,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 30562cb2-7cb1-4f61-8e45-b937094b81c7)
-    (at 351.325 356.75)
+    (at 313.525 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7903,7 +7903,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 3b082dfa-63cc-438e-bdb9-2877ec5cfa66)
-    (at 331.125 417.35)
+    (at 456 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8152,7 +8152,7 @@
 
   (footprint "Inductor_SMD:L_0603_1608Metric" (layer "F.Cu")
     (tstamp 3dd164f1-2fc8-40e1-a50c-bf89d9bb15ab)
-    (at 515.8 486.5 -90)
+    (at 355.75 214.7125 -90)
     (descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "inductor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8161,7 +8161,7 @@
     (property "ki_keywords" "L ferrite bead inductor filter")
     (path "/07c6ac11-7e36-492d-83f6-c67e7b735f57")
     (attr smd)
-    (fp_text reference "FB1" (at 3 0.04 -180) (layer "F.SilkS")
+    (fp_text reference "FB1" (at 2.2125 0 -180) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f6658338-c260-4957-96ef-800ca428c91f)
     )
@@ -8350,7 +8350,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 3f8cada0-9a61-4b5e-8423-d8e1a3baf279)
-    (at 270.525 255.75)
+    (at 308.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9091,7 +9091,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 474740b8-68c1-409c-aedc-c08b0b5243a4)
-    (at 331.125 275.95)
+    (at 323 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9208,7 +9208,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 47c9fd76-a678-440c-8adb-9bc164363cdc)
-    (at 250.325 356.75)
+    (at 536.5 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9799,7 +9799,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 4ba0504c-b73f-4cb1-bfde-b607aa275401)
-    (at 290.725 296.15)
+    (at 242 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9916,7 +9916,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 4ba0b176-9d8f-42c3-80ec-95babc894388)
-    (at 310.925 376.95)
+    (at 536.5 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -10333,7 +10333,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 4f862f3e-b368-4af6-a618-170f360c8a73)
-    (at 514.28 477.125 90)
+    (at 355.5875 205 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -10507,7 +10507,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 509c6613-a61a-4229-b284-b575a82f26dc)
-    (at 310.925 417.35)
+    (at 246.975 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11539,7 +11539,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 5d107785-07ec-4b2f-95b9-c5998042482e)
-    (at 270.525 376.95)
+    (at 422.475 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11950,7 +11950,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 6822c526-fada-40c0-acb7-69e942c62fd8)
-    (at 371.525 316.35)
+    (at 498.5 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12121,7 +12121,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 69677ea2-5091-44bd-b1d3-6f9aa5b73967)
-    (at 250.325 316.35)
+    (at 498.5 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12541,7 +12541,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 6b493fbd-2ca5-4db2-90dc-ad3e3b3caa73)
-    (at 371.525 397.15)
+    (at 239.525 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12658,7 +12658,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 6b994417-3d29-4d5f-b5be-604ce577e26d)
-    (at 529.28 490.645 90)
+    (at 371.5 214.77 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12712,7 +12712,7 @@
 
   (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm" (layer "F.Cu")
     (tstamp 6bc5abce-f336-4742-9dd2-dd613661603e)
-    (at 520.4425 480.375)
+    (at 361.75 208.25)
     (descr "LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "LQFP QFP")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12968,7 +12968,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 6d306cf9-0b96-4084-a3e4-8296f99c8872)
-    (at 331.125 255.75)
+    (at 304 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13085,7 +13085,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 6d7187a7-7653-4397-8a25-c44c55fafeac)
-    (at 250.325 397.15)
+    (at 232.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13448,7 +13448,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 6e8c3e8a-5618-4ca7-9b23-a374e095c3fa)
-    (at 371.525 275.95)
+    (at 453.5 194)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13619,7 +13619,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 6ff9a804-5f47-45c6-b450-be6e2a3bac5f)
-    (at 351.4 234.58)
+    (at 517.475 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13862,7 +13862,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 7050e744-8e59-49d8-8817-c3fcec5cbe3b)
-    (at 351.325 255.75)
+    (at 536.5 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14111,7 +14111,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 70f1c9b7-f80e-4bb8-8786-187a63da9905)
-    (at 311 234.58)
+    (at 393.975 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14712,7 +14712,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 76afbc26-1b89-4211-8b72-458b8a07b3a7)
-    (at 391.725 376.95)
+    (at 536.475 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14955,7 +14955,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 78a891b4-157c-4f98-9f04-746a143e6bd0)
-    (at 250.325 275.95)
+    (at 460.58 118.08)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15258,7 +15258,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 7c1eb402-457f-4bc6-8cd9-4a687e078dbe)
-    (at 537.74 456.5 -90)
+    (at 319.5 204.25 -90)
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x04 2.54mm single row")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15326,7 +15326,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 7c798456-bb2e-455a-96a3-d871321e24bc)
-    (at 513.28 485.5 180)
+    (at 353.23 213.7125 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15434,7 +15434,7 @@
 
   (footprint "Button_Switch_SMD:SW_SPDT_PCM12" (layer "F.Cu")
     (tstamp 7cc6b0a0-d9e2-459f-843a-4fe65b8565cf)
-    (at 517.78 466.125 180)
+    (at 296.58 205.5 -90)
     (descr "Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf")
     (property "Sheetfile" "kaiso.kicad_sch")
     (property "Sheetname" "")
@@ -15442,15 +15442,15 @@
     (property "ki_keywords" "switch single-pole double-throw spdt ON-ON")
     (path "/b9c28031-40a6-4f96-b3df-96ded1cac126")
     (attr smd)
-    (fp_text reference "SW1" (at 0 -3.2) (layer "F.SilkS")
+    (fp_text reference "SW1" (at 0 -3.2 -270) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3243e3cb-d1e3-4e2f-8713-b48b32581f03)
     )
-    (fp_text value "SW_SPDT" (at 0 4.25) (layer "F.Fab")
+    (fp_text value "SW_SPDT" (at 0 4.25 -270) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3f522cb2-2754-4506-9ba9-ce1a6f3c99a1)
     )
-    (fp_text user "${REFERENCE}" (at 0 -3.2) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -3.2 -270) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ea9a5e21-af99-4ea7-9463-80e706362e3f)
     )
@@ -15510,17 +15510,17 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp c46dbd19-6c60-4c67-aebf-d8f4a1bbfeab))
     (fp_line (start 3.35 1.6) (end 3.35 -1)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 8673fd19-95d8-4d12-9454-f0f02b9e1f02))
-    (pad "" smd rect (at -3.65 -0.78 180) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 12c20f76-d7ad-4ee1-b9d6-767e11edb6fa))
-    (pad "" smd rect (at -3.65 1.43 180) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 89e90d2d-ad54-487b-b6ab-2557f43a24aa))
-    (pad "" np_thru_hole circle (at -1.5 0.33 180) (size 0.9 0.9) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp cb9420bd-e1ce-41c1-b129-6a194015d177))
-    (pad "" np_thru_hole circle (at 1.5 0.33 180) (size 0.9 0.9) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp aca9f278-2b9e-48c1-8865-24c77c007644))
-    (pad "" smd rect (at 3.65 -0.78 180) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 683e50cf-d5e5-4588-96d1-02887870af81))
-    (pad "" smd rect (at 3.65 1.43 180) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d9728b7c-65a7-453e-934e-fd8e244bd885))
-    (pad "1" smd rect (at -2.25 -1.43 180) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "" smd rect (at -3.65 -0.78 270) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 12c20f76-d7ad-4ee1-b9d6-767e11edb6fa))
+    (pad "" smd rect (at -3.65 1.43 270) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 89e90d2d-ad54-487b-b6ab-2557f43a24aa))
+    (pad "" np_thru_hole circle (at -1.5 0.33 270) (size 0.9 0.9) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp cb9420bd-e1ce-41c1-b129-6a194015d177))
+    (pad "" np_thru_hole circle (at 1.5 0.33 270) (size 0.9 0.9) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp aca9f278-2b9e-48c1-8865-24c77c007644))
+    (pad "" smd rect (at 3.65 -0.78 270) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 683e50cf-d5e5-4588-96d1-02887870af81))
+    (pad "" smd rect (at 3.65 1.43 270) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d9728b7c-65a7-453e-934e-fd8e244bd885))
+    (pad "1" smd rect (at -2.25 -1.43 270) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "A") (pintype "passive") (tstamp 0c4b05bc-8852-4379-b919-648c634cd483))
-    (pad "2" smd rect (at 0.75 -1.43 180) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "2" smd rect (at 0.75 -1.43 270) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 212 "Net-(SW1-B)") (pinfunction "B") (pintype "passive") (tstamp 6df2f36e-2bb6-43d7-bb1b-4aaa26c9295e))
-    (pad "3" smd rect (at 2.25 -1.43 180) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "3" smd rect (at 2.25 -1.43 270) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "+3.3V") (pinfunction "C") (pintype "passive") (tstamp 0d51e1a4-dbab-413f-9a33-65866b609c2e))
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl"
       (offset (xyz 0 0 0))
@@ -15639,7 +15639,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 802867e4-50d0-4ab2-8219-b7c62f5adbd8)
-    (at 391.725 275.95)
+    (at 441.75 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15810,7 +15810,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 8059e5ae-1478-48cb-96a9-be33076effa8)
-    (at 230.125 417.35)
+    (at 384.475 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -16059,7 +16059,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 827d7846-c2a4-43fa-ad6b-3b3b341df171)
-    (at 230.125 437.55)
+    (at 403.475 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -16176,7 +16176,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 8287ce0d-66ac-4636-9c79-6d5eb73b8255)
-    (at 290.725 397.15)
+    (at 337 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -16497,7 +16497,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 83b2aa78-d935-4e38-b25d-41003c6db5c2)
-    (at 331.125 356.75)
+    (at 398.975 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -17016,7 +17016,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 87db8d10-7a87-4717-995d-7713809e13d5)
-    (at 250.325 417.35)
+    (at 251.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -17193,7 +17193,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 8934fd93-525c-471e-9796-cde7518a641c)
-    (at 290.725 336.55)
+    (at 280 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -17310,7 +17310,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 89f31581-5142-4622-9462-d254f73f7d61)
-    (at 230.125 336.55)
+    (at 308.475 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -17541,7 +17541,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 8a6567cc-1b87-4298-a49f-21d706aec9a4)
-    (at 310.925 296.15)
+    (at 451 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -17658,7 +17658,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 8aa6797d-8345-4d6d-b159-e0add8ffc201)
-    (at 270.525 336.55)
+    (at 384.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -17775,7 +17775,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 8ddf4b2f-1569-406c-b169-5095e68b6333)
-    (at 270.525 296.15)
+    (at 346.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -17892,7 +17892,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 8ddf9c89-90e5-4cf2-9474-d8470078c682)
-    (at 230.125 356.75)
+    (at 327.5 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18081,7 +18081,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 8e3127cf-4025-49b2-ac89-70747df42e7e)
-    (at 270.525 397.15)
+    (at 441.475 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18936,7 +18936,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 944b2109-7e58-4036-9598-801b193a92c4)
-    (at 331.125 397.15)
+    (at 437 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19269,7 +19269,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 96f441a2-32ab-4cea-9c7f-089bad7cbb44)
-    (at 250.4 234.58)
+    (at 422.475 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19386,7 +19386,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tstamp 973b7ba0-54e7-433c-98df-24ea3a18c8f9)
-    (at 517.78 471.625)
+    (at 303.26 206.25)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19500,7 +19500,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 9974941f-a73a-4bdb-a27f-07958367dcbb)
-    (at 290.8 234.58)
+    (at 517.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19617,7 +19617,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp 99bdf8df-04d9-4fc9-af15-3c6f86767cdf)
-    (at 250.325 336.55)
+    (at 517.475 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20088,7 +20088,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 9ddc77a0-0ec3-4ec9-a959-68674eb886db)
-    (at 513.28 487.5 180)
+    (at 353.23 215.7125 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20255,7 +20255,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp a0e1e49e-2fdb-49a8-9cf4-68c882aa5c29)
-    (at 371.6 234.58)
+    (at 408.475 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20426,7 +20426,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp a179a36a-9ccd-4e85-9a48-5330a901fb0e)
-    (at 310.925 316.35)
+    (at 477.225 165.5)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20651,7 +20651,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp a1f20c74-e6cd-4ca0-934b-3542ec352711)
-    (at 497.6 456.96)
+    (at 309.25 211.725)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20901,7 +20901,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp a6fc9738-ed4f-4c8e-ad7f-6d43d53bd272)
-    (at 351.325 275.95)
+    (at 225.25 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21018,7 +21018,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp a74328ed-297a-42f6-a915-dd42581c623c)
-    (at 351.325 397.15)
+    (at 351.475 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21435,7 +21435,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp a94011ea-6272-4109-b2ed-b01e64faca5b)
-    (at 351.325 296.15)
+    (at 256.25 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21696,7 +21696,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp a9cebb3f-9185-48e7-94a7-bcda91d1f907)
-    (at 331.125 437.55)
+    (at 498.5 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21927,7 +21927,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp ab2ab893-2c58-40a8-b727-a83b653e8f2b)
-    (at 250.325 255.75)
+    (at 441.475 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -22158,7 +22158,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp aeedf2c5-06a2-47ed-89f4-b60ba5622554)
-    (at 371.525 437.55)
+    (at 334.75 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -22581,7 +22581,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp b3911bce-4ae3-49c2-887f-42037589fc3c)
-    (at 290.725 417.35)
+    (at 356 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -22698,7 +22698,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp b3a29faa-28f8-41ae-ac4e-cf3d6b5015df)
-    (at 371.525 255.75)
+    (at 427.5 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -22875,7 +22875,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp b433b3b7-8b47-4cc9-a981-9de086712825)
-    (at 351.325 437.55)
+    (at 389.475 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23064,7 +23064,7 @@
 
   (footprint "Crystal:Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm" (layer "F.Cu")
     (tstamp b5722320-d378-4028-82fa-2e45971fb346)
-    (at 500.28 481.125 -90)
+    (at 319.25 213 -90)
     (descr "SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf")
     (tags "SMD SMT ceramic resonator filter")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23458,7 +23458,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp b7239ba1-c0e8-4299-a10c-cc98f7f87190)
-    (at 290.725 437.55)
+    (at 374.975 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23887,7 +23887,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp bd1247f0-557f-4b0b-af8a-18b09fa264a9)
-    (at 391.725 336.55)
+    (at 498.5 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24177,7 +24177,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp bf104872-fd20-4ec2-b16a-2f9dfc54c061)
-    (at 310.925 437.55)
+    (at 266 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24426,7 +24426,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp bf96e882-4c72-4dd7-ae0e-30b38fb1b102)
-    (at 391.725 356.75)
+    (at 517.475 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24597,7 +24597,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp c19faa36-3554-4770-a016-df4304d1ba80)
-    (at 270.525 316.35)
+    (at 365.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24822,7 +24822,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp c73e0c1c-f0d2-4362-ace2-65c293fc257c)
-    (at 351.325 376.95)
+    (at 332.475 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25011,7 +25011,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp c8c832c7-2330-4b6f-ae3b-3468d5fc2391)
-    (at 535.78 487.625 90)
+    (at 378 211.75 90)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25449,7 +25449,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp cf762796-6198-4f8c-a52d-280d26fb8364)
-    (at 290.725 316.35)
+    (at 261 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25566,7 +25566,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp d16a31e8-4ffc-4092-9b44-38ad0359b293)
-    (at 331.2 234.58)
+    (at 285 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25923,7 +25923,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23-3" (layer "F.Cu")
     (tstamp d8e7c930-fc52-4abb-9f33-d367a03657cf)
-    (at 532.78 490.625)
+    (at 375 214.75)
     (descr "SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26093,7 +26093,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp da6ed8f2-02ab-4bf8-858f-92c18565c8ff)
-    (at 371.525 336.55)
+    (at 517.475 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26501,7 +26501,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp df591959-8aa8-4d09-857f-103659d72e0f)
-    (at 250.325 437.55)
+    (at 270.475 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26834,7 +26834,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp e00cce00-16d2-49ea-b3a6-4975931d3faf)
-    (at 331.125 376.95)
+    (at 418 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27023,7 +27023,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp e0da6c39-4d1f-41cd-8642-65c9e54af6c2)
-    (at 371.525 376.95)
+    (at 215.82 213.38)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27248,7 +27248,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp e1a5096c-d2f7-48a9-aa5a-56ba74e04c86)
-    (at 290.725 275.95)
+    (at 218.225 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27551,7 +27551,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp e352c0e8-139f-44c2-a193-074262bafcb8)
-    (at 351.325 336.55)
+    (at 294.475 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27926,7 +27926,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp e67de93f-33a9-4d8e-9eb6-885faa10091d)
-    (at 391.725 296.15)
+    (at 460.725 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28378,7 +28378,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp e935e9f6-0cd9-4b36-90cd-0e5f0edcce7f)
-    (at 230.125 316.35)
+    (at 289.475 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28639,7 +28639,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp eb5023c1-5948-4703-a115-6cf2bb6afe43)
-    (at 310.925 397.15)
+    (at 220.5 175)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28756,7 +28756,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp eb5ec952-52fd-4ac9-a26a-253ace8c39b6)
-    (at 514.28 481.125 90)
+    (at 352.5 209.75 90)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28810,7 +28810,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp eb67e789-664f-4225-8afc-6cf10affa18e)
-    (at 391.725 255.75)
+    (at 422.75 213.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28981,7 +28981,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp ec3c161d-6257-4d59-86d6-a9f3b74b864b)
-    (at 250.325 296.15)
+    (at 479.5 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -29098,7 +29098,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp eca3e68b-e815-494c-bd4a-b1a6b9f01c95)
-    (at 310.925 336.55)
+    (at 498.475 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -29395,7 +29395,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp efa15334-6a0d-42f4-8f9d-96818618e0f6)
-    (at 290.725 356.75)
+    (at 298.975 156)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -29626,7 +29626,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp f03b9e64-1841-4483-a0a8-781ccb80b7fa)
-    (at 517.76 474.125)
+    (at 359.0675 202)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -29740,7 +29740,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp f233a7d6-1c06-4bd0-98ba-5d399f0e3e9e)
-    (at 270.6 234.58)
+    (at 289.475 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30091,7 +30091,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp f6ab3c67-66a4-4d5b-868f-4247e666fe12)
-    (at 351.325 417.35)
+    (at 370.5 194.25)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30268,7 +30268,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp f819736a-0a92-4c2a-bcee-7f8b23236796)
-    (at 270.525 437.55)
+    (at 498.475 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30385,7 +30385,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp f826bfbd-8582-4834-a68b-82a8cc0f6c84)
-    (at 230.125 376.95)
+    (at 346.5 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30622,7 +30622,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tstamp fa514dd6-ce91-47c7-ac65-b2b0f8c8f951)
-    (at 530.77 486.125)
+    (at 372.99 210.25)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30790,7 +30790,7 @@
 
   (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (layer "F.Cu")
     (tstamp fad6e1e7-41bb-4d0a-933a-ed83ba275fdb)
-    (at 545.7 473.6 90)
+    (at 375.25 203.25 180)
     (descr "JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST SH top entry")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30799,15 +30799,15 @@
     (property "ki_keywords" "connector")
     (path "/22f5d0f7-ddd8-44b5-b17e-a98727daa3ec")
     (attr smd)
-    (fp_text reference "J1" (at 0 -3.98 90) (layer "F.SilkS")
+    (fp_text reference "J1" (at 0 -3.98) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b1f849fe-2c83-46ac-97ed-d5f8ef69eb6f)
     )
-    (fp_text value "JST_SH_Conn_01x04" (at 0 3.98 90) (layer "F.Fab")
+    (fp_text value "JST_SH_Conn_01x04" (at 0 3.98) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp caca3dba-812b-4f7c-8c44-1157fadbd7d8)
     )
-    (fp_text user "${REFERENCE}" (at 0 0 90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b82052ec-6967-4da2-8dcb-bda814c94855)
     )
@@ -30843,16 +30843,16 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 65595068-ca0d-419f-a1fb-a566bcd68b7e))
     (fp_line (start 3 -1.675) (end 3 2.575)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 22347276-6e4d-4e8e-b323-ebd9fda6c333))
-    (pad "1" smd roundrect (at -1.5 -2 90) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (pad "1" smd roundrect (at -1.5 -2 180) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 1 "+5V") (pinfunction "Pin_1") (pintype "passive") (tstamp 9dd7c40a-5c5b-4f20-be1f-8d3bb3db4138))
-    (pad "2" smd roundrect (at -0.5 -2 90) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (pad "2" smd roundrect (at -0.5 -2 180) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 110 "USB_D-") (pinfunction "Pin_2") (pintype "passive") (tstamp 801fc222-4bfd-4aec-91b4-bcc8bc6690ba))
-    (pad "3" smd roundrect (at 0.5 -2 90) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (pad "3" smd roundrect (at 0.5 -2 180) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 111 "USB_D+") (pinfunction "Pin_3") (pintype "passive") (tstamp f05d0527-3994-49fd-8328-88a1970c1eb5))
-    (pad "4" smd roundrect (at 1.5 -2 90) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+    (pad "4" smd roundrect (at 1.5 -2 180) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "GND") (pinfunction "Pin_4") (pintype "passive") (tstamp e3f29272-88cd-4955-a639-b3fc3708e368))
-    (pad "MP" smd roundrect (at -2.8 1.875 90) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp e797d404-5eb0-4b14-891b-8763c9ca3246))
-    (pad "MP" smd roundrect (at 2.8 1.875 90) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp bf34a804-8c88-4dc7-af71-3779bc72d756))
+    (pad "MP" smd roundrect (at -2.8 1.875 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp e797d404-5eb0-4b14-891b-8763c9ca3246))
+    (pad "MP" smd roundrect (at 2.8 1.875 180) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp bf34a804-8c88-4dc7-af71-3779bc72d756))
     (model "${KIPRJMOD}/library/etc_Symbols/SM04B-SRSS-TB(LF)(SN)--3DModel-STEP-269445.STEP"
       (offset (xyz 0 1.5 -0.5))
       (scale (xyz 1 1 1))
@@ -30862,7 +30862,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp fb2ed9ae-4ded-416f-8f90-c122192ac0ef)
-    (at 528.78 487.625 -90)
+    (at 371 211.75 -90)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -31112,7 +31112,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp fe69bc1d-1c2b-4009-84c8-3e2c02e08719)
-    (at 230.125 397.15)
+    (at 365.475 118)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -31229,7 +31229,7 @@
 
   (footprint "PCM_marbastlib-mx:LED_MX_6028R" (layer "F.Cu")
     (tstamp ff0aee43-e8d2-40e9-84bd-a14638b47d5f)
-    (at 270.525 275.95)
+    (at 327.5 137)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "kaiso.kicad_sch")
