@@ -389,7 +389,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 009923c7-2565-4f24-8f3a-89e9aedd8db1)
-    (at 469.92 416.975)
+    (at 351.72 261.05)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -521,7 +521,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 0159d525-8ae8-4407-bcb3-b36ae00354d5)
-    (at 504.69 427.025)
+    (at 386.49 271.1)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -593,7 +593,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 017edb5d-f6d6-4d74-8386-d23c92631cbe)
-    (at 475.715 440.425)
+    (at 357.515 284.5)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -834,7 +834,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 037fd189-6628-4962-9aa1-ccf794aad5ee)
-    (at 481.51 416.975)
+    (at 363.31 261.05)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -966,7 +966,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 053e3dd9-ef85-4fd2-8ef2-eee7c91e95c8)
-    (at 498.895 433.725)
+    (at 380.695 277.8)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -1038,7 +1038,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 056701ac-55d0-4c94-9d2b-93aa661d4903)
-    (at 493.1 410.275)
+    (at 374.9 254.35)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -1110,7 +1110,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 065f9c43-d56a-43c7-8d1e-4c86e86db286)
-    (at 544.43 416.675)
+    (at 426.23 260.75)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -1356,7 +1356,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 08928ca9-fcc7-4756-bcad-6c2901d48096)
-    (at 481.51 420.325)
+    (at 363.31 264.4)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -1608,7 +1608,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 0ad0f5a5-9817-45e0-a62b-bfe2898b2853)
-    (at 498.895 410.275)
+    (at 380.695 254.35)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -1914,7 +1914,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 0cc96bf5-91ec-459d-9a4a-80f084f3a4af)
-    (at 475.715 427.025)
+    (at 357.515 271.1)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2097,7 +2097,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 0e500e8f-de59-477b-bc4e-370e4d911dc0)
-    (at 561.65 416.675)
+    (at 443.45 260.75)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2259,7 +2259,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 104db89b-ce75-43e7-b052-2aae97e3ab23)
-    (at 547.3 408.795)
+    (at 429.1 252.87)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2589,7 +2589,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 130b0bd9-d8e2-4c7b-8cdf-4ef12a5a9c70)
-    (at 547.3 402.885)
+    (at 429.1 246.96)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -2760,7 +2760,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 141e5eff-da16-4a93-accc-3ed5ec7ea004)
-    (at 555.91 410.765)
+    (at 437.71 254.84)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3339,7 +3339,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 18efe9ad-b0a6-4843-b28d-0082f17b6a6e)
-    (at 504.69 416.975)
+    (at 386.49 261.05)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3411,7 +3411,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 19027a45-7d3c-4a70-8d99-2c2eb416de87)
-    (at 504.69 433.725)
+    (at 386.49 277.8)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3483,7 +3483,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 1a9b209f-5977-4499-bcad-7b00f7a98526)
-    (at 558.78 404.855)
+    (at 440.58 248.93)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3537,7 +3537,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 1bc2f913-dee1-4d10-97e9-2ea55159232d)
-    (at 504.69 430.375)
+    (at 386.49 274.45)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3609,7 +3609,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 1c5b2469-7931-4057-b5d2-b7586a509414)
-    (at 504.69 413.625)
+    (at 386.49 257.7)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -3912,7 +3912,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 20169a58-dbe9-4b40-bc66-0eb88eb8f409)
-    (at 481.51 413.625)
+    (at 363.31 257.7)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -4213,7 +4213,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 21864b96-d80e-42da-88cd-31cbb0525d04)
-    (at 553.04 418.645)
+    (at 434.84 262.72)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -4849,7 +4849,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 242b3437-cf3f-4a9c-a3d3-fafa70a50741)
-    (at 550.17 410.765)
+    (at 431.97 254.84)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -4963,7 +4963,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 243321aa-eb24-445a-aecb-c65c16c400dc)
-    (at 558.78 422.585)
+    (at 440.58 266.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5371,7 +5371,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 285f3aa1-d147-48e3-b7b6-70161463914a)
-    (at 547.3 416.675)
+    (at 429.1 260.75)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5425,7 +5425,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 28d69389-30f9-4112-9509-f61f4d09ad02)
-    (at 464.125 420.325)
+    (at 345.925 264.4)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5497,7 +5497,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 298160e5-b458-4bb5-a84a-b0c40d921442)
-    (at 493.1 423.675)
+    (at 374.9 267.75)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5686,7 +5686,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 2a3cf5e1-e682-4dd6-9c85-3d6cf5857a70)
-    (at 544.43 418.645)
+    (at 426.23 262.72)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -5917,7 +5917,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 2ba39bf2-f22b-4153-9c73-94a7ebf11735)
-    (at 553.04 414.705)
+    (at 434.84 258.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6202,7 +6202,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 2fc42220-bbca-488a-905f-f29e5eeb5f93)
-    (at 558.78 416.675)
+    (at 440.58 260.75)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6256,7 +6256,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 300d9377-963b-4c52-93c6-2060f4ac56dd)
-    (at 475.715 420.325)
+    (at 357.515 264.4)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6505,7 +6505,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 30d518c6-d6c4-4a5a-96ae-f077f28a4265)
-    (at 555.91 422.585)
+    (at 437.71 266.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6559,7 +6559,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 3130ca77-7ce0-49c6-8a4c-88e8a3e1e042)
-    (at 481.51 403.575)
+    (at 363.31 247.65)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6631,7 +6631,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 31c745db-68e2-4041-9605-ccff8a205c59)
-    (at 544.43 410.765)
+    (at 426.23 254.84)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6805,7 +6805,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 32629bee-441e-4764-8c75-fb3e2d80b962)
-    (at 547.3 406.825)
+    (at 429.1 250.9)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6859,7 +6859,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 32f0d258-9a7f-47ec-a14c-d0b8db743244)
-    (at 493.1 416.975)
+    (at 374.9 261.05)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -6991,7 +6991,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3327a014-0d7f-4a5a-8884-cef23fa99a15)
-    (at 553.04 412.735)
+    (at 434.84 256.81)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7045,7 +7045,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3386f09d-9087-4b6c-93ed-82f37f8d0e30)
-    (at 550.17 416.675)
+    (at 431.97 260.75)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7099,7 +7099,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 348031d8-34a0-41a0-b16a-dbb8e27dfb25)
-    (at 464.125 423.675)
+    (at 345.925 267.75)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7171,7 +7171,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 34ac8aba-3703-4cf5-8357-5891575f6a4b)
-    (at 555.91 416.675)
+    (at 437.71 260.75)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7225,7 +7225,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 35078864-11e1-4e6d-a6ea-bb5bfbd3c182)
-    (at 469.92 433.725)
+    (at 351.72 277.8)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7297,7 +7297,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 359616ab-8e8b-4b1c-b391-4292f0e50dec)
-    (at 547.3 412.735)
+    (at 429.1 256.81)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7351,7 +7351,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3596b367-62e9-4e11-b891-a8dd200bc357)
-    (at 558.78 418.645)
+    (at 440.58 262.72)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7405,7 +7405,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 35ad2979-3668-4838-acb2-f6d1d3cee3fa)
-    (at 475.715 410.275)
+    (at 357.515 254.35)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7477,7 +7477,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3644b261-c916-403b-8cf0-1dd451d7f5a0)
-    (at 553.04 408.795)
+    (at 434.84 252.87)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7531,7 +7531,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 375c3666-6468-4342-90cd-bc159edd60ad)
-    (at 504.69 420.325)
+    (at 386.49 264.4)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7603,7 +7603,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 3762c17f-c557-47b2-9837-2545d1f66d3d)
-    (at 493.1 437.075)
+    (at 374.9 281.15)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7795,7 +7795,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 38f17873-b35a-4f72-92c8-dfd2a3354241)
-    (at 555.91 414.705)
+    (at 437.71 258.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -7849,7 +7849,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 3aebfa40-7d86-4c43-a56d-7890ed884aaf)
-    (at 544.43 404.855)
+    (at 426.23 248.93)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8020,7 +8020,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 3b2e7fa5-f553-4116-8d6e-c57b657c4877)
-    (at 493.1 406.925)
+    (at 374.9 251)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8206,7 +8206,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 3ea60a11-e13f-4e92-b00b-2a49fb5d1009)
-    (at 464.125 430.375)
+    (at 345.925 274.45)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8278,7 +8278,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 3ee97ccb-7b9c-4f64-b90b-6080f623601c)
-    (at 487.305 440.425)
+    (at 369.105 284.5)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8467,7 +8467,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 417564d2-f946-480d-bfe1-b72fd651fbd5)
-    (at 504.69 403.575)
+    (at 386.49 247.65)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8539,7 +8539,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 41d8d5af-b9dc-4eba-9c9c-406efecce9a1)
-    (at 475.715 403.575)
+    (at 357.515 247.65)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8611,7 +8611,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 4232d444-80b4-4d6d-8f24-c39eaeb6c135)
-    (at 481.51 423.675)
+    (at 363.31 267.75)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8683,7 +8683,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 43427a8f-4116-4e08-8045-a7d1c2c3a8a9)
-    (at 475.715 413.625)
+    (at 357.515 257.7)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8755,7 +8755,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 4372e5f5-f26c-48c9-a233-c15ca5f2a1b9)
-    (at 469.92 430.375)
+    (at 351.72 274.45)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -8827,7 +8827,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 459683a4-cf56-4d3a-8516-a4ef90e1f1c4)
-    (at 464.125 416.975)
+    (at 345.925 261.05)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9019,7 +9019,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 464fe275-dff1-4cf5-a36b-7edb8f6bebd2)
-    (at 469.92 420.325)
+    (at 351.72 264.4)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9325,7 +9325,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 47cc7c06-fb0d-4bf4-8fe7-7bf39657ae94)
-    (at 498.895 427.025)
+    (at 380.695 271.1)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9517,7 +9517,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 480f5cff-a494-4a38-96f6-73108f7935d4)
-    (at 553.04 424.555)
+    (at 434.84 268.63)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9691,7 +9691,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 4b11c482-d166-47d2-8b14-4a3f331f4ea1)
-    (at 550.17 406.825)
+    (at 431.97 250.9)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -9745,7 +9745,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 4b60404f-6989-4945-80e2-6ea2f060ad14)
-    (at 547.3 422.585)
+    (at 429.1 266.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -10093,7 +10093,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 4c259286-ab71-4928-ae42-696840dc8d3a)
-    (at 550.17 404.855)
+    (at 431.97 248.93)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -10147,7 +10147,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 4c741581-6733-4ee8-ab55-cd21c077b503)
-    (at 555.91 420.615)
+    (at 437.71 264.69)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -10261,7 +10261,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 4f1e1da5-913e-4730-ae05-22a47d27e8c7)
-    (at 481.51 406.925)
+    (at 363.31 251)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -10744,7 +10744,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 5351eb31-444c-43e9-b826-eedc8c313890)
-    (at 544.43 424.555)
+    (at 426.23 268.63)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -10798,7 +10798,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 53ae9d50-3602-4182-8bd0-af974c75f5ac)
-    (at 547.3 424.555)
+    (at 429.1 268.63)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -10972,7 +10972,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 559a7b4f-3290-4527-bcbc-2e64d16a94af)
-    (at 561.65 418.645)
+    (at 443.45 262.72)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11080,7 +11080,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 55c0c147-c073-472a-be2d-4bdd91ee3559)
-    (at 498.895 423.675)
+    (at 380.695 267.75)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11152,7 +11152,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 56ae9c87-082d-493f-85cc-7cc95c200042)
-    (at 561.65 412.735)
+    (at 443.45 256.81)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11206,7 +11206,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 571583f3-2eec-4daa-be88-446f9d1532f3)
-    (at 475.715 437.075)
+    (at 357.515 281.15)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11278,7 +11278,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 57c3e5f7-0a68-4cf1-91e1-ae05620df82a)
-    (at 487.305 413.625)
+    (at 369.105 257.7)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11350,7 +11350,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 5a7d6776-01c8-4b77-ad0d-78b03dac8521)
-    (at 475.715 416.975)
+    (at 357.515 261.05)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11656,7 +11656,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 61ef0d6c-6a66-491e-8701-5987b63a9df0)
-    (at 561.65 402.885)
+    (at 443.45 246.96)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11710,7 +11710,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 638841e4-ce91-4889-84fe-6d0b62404647)
-    (at 493.1 427.025)
+    (at 374.9 271.1)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11842,7 +11842,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 665dc13d-1173-440b-9618-7ed6c19a4702)
-    (at 558.78 412.735)
+    (at 440.58 256.81)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -11896,7 +11896,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 676a0110-a6c4-4745-9189-0f14a23f33f2)
-    (at 550.17 422.585)
+    (at 431.97 266.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12067,7 +12067,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 68c6ff36-676f-4171-8500-004ea307267d)
-    (at 541.56 408.795)
+    (at 423.36 252.87)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12298,7 +12298,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 69dd0d81-e06b-46a8-9bbb-2a1b7c4fb0ec)
-    (at 553.04 406.825)
+    (at 434.84 250.9)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12469,7 +12469,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 6a5c4425-16d6-492e-958a-8b1b6555a55d)
-    (at 481.51 440.425)
+    (at 363.31 284.5)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -12914,7 +12914,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 6bcd8983-3ffc-47ee-a040-258c2fb921a2)
-    (at 555.91 418.645)
+    (at 437.71 262.72)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13322,7 +13322,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 6df77c0d-02bb-4fd2-9ee0-497ad57806c4)
-    (at 504.69 406.925)
+    (at 386.49 251)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13394,7 +13394,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 6e5c7c07-52a9-46c9-9cb1-446a7b25ceec)
-    (at 561.65 408.795)
+    (at 443.45 252.87)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13565,7 +13565,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 6eb310d6-a3b1-4b03-9451-7270250d832f)
-    (at 544.43 412.735)
+    (at 426.23 256.81)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13736,7 +13736,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 700f1ced-7019-4e84-bb52-f693ec92647a)
-    (at 541.56 414.705)
+    (at 423.36 258.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -13790,7 +13790,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 7046e0e1-fa3a-4970-9a1c-1b234db27266)
-    (at 487.305 406.925)
+    (at 369.105 251)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14039,7 +14039,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 709539fc-9ccb-4ca5-a2ed-cee45d378773)
-    (at 493.1 413.625)
+    (at 374.9 257.7)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14287,7 +14287,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 7421a193-ff48-463c-9ef1-b4ecef0a68af)
-    (at 469.92 406.925)
+    (at 351.72 251)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14359,7 +14359,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 74548e7c-9a21-4cb1-8d56-5a1f1ca1e1ce)
-    (at 555.91 424.555)
+    (at 437.71 268.63)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14413,7 +14413,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 74bc78ad-7608-40b3-b1dc-032f41affb94)
-    (at 561.65 414.705)
+    (at 443.45 258.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14467,7 +14467,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 75e320da-9a67-4dbb-b66a-515a9dfe8bb4)
-    (at 498.895 403.575)
+    (at 380.695 247.65)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14599,7 +14599,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 7672c96a-398b-4997-8f47-320e13e92992)
-    (at 555.91 412.735)
+    (at 437.71 256.81)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14829,7 +14829,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 77622ca3-881c-40cd-90f0-c67cae185cd3)
-    (at 498.895 420.325)
+    (at 380.695 264.4)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -14901,7 +14901,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 77652ff6-526b-410a-9586-2af81f4a9a2c)
-    (at 541.56 406.825)
+    (at 423.36 250.9)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15072,7 +15072,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 78d2388e-fab5-4a6a-9092-b432a41d8779)
-    (at 555.91 408.795)
+    (at 437.71 252.87)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15126,7 +15126,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 7a4717fb-4e10-4557-ad3d-41c45fc08518)
-    (at 464.125 437.075)
+    (at 345.925 281.15)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15380,7 +15380,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 7ca7a30b-1bbf-4c63-8700-4ec84cbbbbe7)
-    (at 553.04 410.765)
+    (at 434.84 254.84)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15531,7 +15531,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 7e101b44-56cb-43eb-a872-1ff6218f2f08)
-    (at 558.78 410.765)
+    (at 440.58 254.84)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15585,7 +15585,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 7ebb5ade-a188-40e8-9274-0578ecdc6b3d)
-    (at 541.56 416.675)
+    (at 423.36 260.75)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -15927,7 +15927,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 81b67b97-f960-4950-9d41-6fd0303198a1)
-    (at 498.895 413.625)
+    (at 380.695 257.7)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -16293,7 +16293,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 82937518-10bb-48bc-9857-166dad5e1689)
-    (at 464.125 427.025)
+    (at 345.925 271.1)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -16365,7 +16365,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 829552d6-832f-4bbe-80c2-38c272701210)
-    (at 481.51 437.075)
+    (at 363.31 281.15)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -16686,7 +16686,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 8503d1e6-95bc-4647-8dab-8e4fbdbc249a)
-    (at 475.715 433.725)
+    (at 357.515 277.8)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -16758,7 +16758,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 85a78902-678c-481c-bb0a-869e1c00b875)
-    (at 558.78 406.825)
+    (at 440.58 250.9)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -16872,7 +16872,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 86207058-fb3b-43d3-bc1d-491f10e5c9a3)
-    (at 487.305 437.075)
+    (at 369.105 281.15)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -17487,7 +17487,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 8a5d3272-6970-4ad2-8148-c3d07dddced1)
-    (at 544.43 414.705)
+    (at 426.23 258.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18009,7 +18009,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 8de9743b-b944-4ecc-b992-3e4f6854818a)
-    (at 493.1 403.575)
+    (at 374.9 247.65)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18270,7 +18270,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 8e4a3368-141a-47c9-bb49-c4748e152c1e)
-    (at 487.305 427.025)
+    (at 369.105 271.1)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18342,7 +18342,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 8fea66c5-f585-4f7f-b265-9ad4486c0a8a)
-    (at 541.56 410.765)
+    (at 423.36 254.84)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18396,7 +18396,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 9040b605-ed00-46c9-b056-cade212b903a)
-    (at 493.1 433.725)
+    (at 374.9 277.8)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18648,7 +18648,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 9201b4fa-64f1-4213-9b6b-b20908749438)
-    (at 469.92 413.625)
+    (at 351.72 257.7)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18720,7 +18720,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 92026c17-67c1-41e9-84fa-fada3883f6f1)
-    (at 541.56 412.735)
+    (at 423.36 256.81)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18774,7 +18774,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 925ac685-3064-4169-b88f-9c66af618777)
-    (at 553.04 416.675)
+    (at 434.84 260.75)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18828,7 +18828,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 940fdbc5-ec9c-4dca-bdb8-59407c86b3f4)
-    (at 541.56 418.645)
+    (at 423.36 262.72)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -18882,7 +18882,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 941aab17-212e-4cc7-9797-ff7ee531b5fb)
-    (at 550.17 408.795)
+    (at 431.97 252.87)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19053,7 +19053,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 94c30885-bfb2-4a1b-8106-3d09a63d37dd)
-    (at 469.92 423.675)
+    (at 351.72 267.75)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19125,7 +19125,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 95d06a29-3b93-43a4-932c-d90e8cffec10)
-    (at 475.715 430.375)
+    (at 357.515 274.45)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19197,7 +19197,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 96943869-9090-4135-87db-f2188302deaa)
-    (at 498.895 430.375)
+    (at 380.695 274.45)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19794,7 +19794,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp 9abea990-6aa5-49f4-b35e-b8a71c95cf0e)
-    (at 487.305 433.725)
+    (at 369.105 277.8)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -19926,7 +19926,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 9cc73b50-709c-4183-a1cc-f32263666f30)
-    (at 541.56 420.615)
+    (at 423.36 264.69)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20142,7 +20142,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 9f0a134c-286d-44a9-88b5-350e85d80f93)
-    (at 555.91 406.825)
+    (at 437.71 250.9)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20372,7 +20372,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp a1209f05-1415-4e1b-9e9d-5d6fe2ed174d)
-    (at 558.78 414.705)
+    (at 440.58 258.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20543,7 +20543,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp a193c0fb-7eff-4d45-9b69-57a95e3abca7)
-    (at 561.65 404.855)
+    (at 443.45 248.93)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20597,7 +20597,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp a1b190d0-e440-4c06-ada3-8b95f54975cb)
-    (at 544.43 402.885)
+    (at 426.23 246.96)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20715,7 +20715,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp a29e934f-0305-4f84-938d-edfbf4289292)
-    (at 544.43 408.795)
+    (at 426.23 252.87)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -20829,7 +20829,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a4e66f7c-f431-4314-8242-62d100ed2083)
-    (at 498.895 406.925)
+    (at 380.695 251)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21195,7 +21195,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a8718c10-8797-45bf-a3f9-8f22b943852d)
-    (at 475.715 423.675)
+    (at 357.515 267.75)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21267,7 +21267,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp a877d4cf-f5e5-4460-ae9a-127fb422f392)
-    (at 553.04 422.585)
+    (at 434.84 266.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21321,7 +21321,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp a919f95f-2443-4b1b-8f95-2715aaacb690)
-    (at 544.43 422.585)
+    (at 426.23 266.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21552,7 +21552,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a9629d08-1bc8-4039-a88a-bf69e0673ad4)
-    (at 487.305 423.675)
+    (at 369.105 267.75)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21624,7 +21624,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp a9aacfbe-6d80-4b7b-bb0a-61ccda976ee9)
-    (at 469.92 410.275)
+    (at 351.72 254.35)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -21813,7 +21813,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp aad66514-14b3-4da9-be5a-ec0c6d1c7190)
-    (at 544.43 406.825)
+    (at 426.23 250.9)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -22104,7 +22104,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp ae1ffab2-7f46-460f-804b-79e424a1d9ad)
-    (at 550.17 402.885)
+    (at 431.97 246.96)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -22335,7 +22335,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp b040c012-c93e-4c91-b8e2-ed13ac8ecf62)
-    (at 541.56 424.555)
+    (at 423.36 268.63)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -22389,7 +22389,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b0905593-cb22-4aed-8ad6-f1a573f7de4d)
-    (at 475.715 406.925)
+    (at 357.515 251)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -22992,7 +22992,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b52b18cd-495f-48f9-b775-93e9785bb2cc)
-    (at 464.125 440.425)
+    (at 345.925 284.5)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23260,7 +23260,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp b6578b7b-6f67-4261-a812-7e9cb5ec009b)
-    (at 558.78 424.555)
+    (at 440.58 268.63)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23314,7 +23314,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b6bac56a-4eb0-4b11-9a6f-11d25cce73c6)
-    (at 493.1 430.375)
+    (at 374.9 274.45)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23386,7 +23386,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b71fbd84-f217-475f-8047-22863fb879b6)
-    (at 498.895 416.975)
+    (at 380.695 261.05)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23575,7 +23575,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp b8e90475-49d1-4441-9b26-3971548e256e)
-    (at 481.51 427.025)
+    (at 363.31 271.1)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23647,7 +23647,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp bae33c46-fb8a-4e42-890b-54c22e2b11e1)
-    (at 541.56 404.855)
+    (at 423.36 248.93)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23701,7 +23701,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp bb14e7cc-fd4b-463a-a3e9-9dfcfb80efbe)
-    (at 504.69 410.275)
+    (at 386.49 254.35)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -23833,7 +23833,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp bcd92174-7675-4c5a-bcea-c4b8e51adf24)
-    (at 553.04 402.885)
+    (at 434.84 246.96)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24123,7 +24123,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp bee4723b-45ef-44e4-88d2-dab9d0b5f49c)
-    (at 544.43 420.615)
+    (at 426.23 264.69)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24294,7 +24294,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp bf2db5ce-cc18-4893-8ba4-59ca0e488ede)
-    (at 493.1 440.425)
+    (at 374.9 284.5)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24543,7 +24543,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp bfcca3af-2761-4c34-9c9c-9bdfc5eb327f)
-    (at 555.91 404.855)
+    (at 437.71 248.93)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24714,7 +24714,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp c3d68100-1329-4f32-9c6c-7146ab2f05d7)
-    (at 561.65 406.825)
+    (at 443.45 250.9)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24768,7 +24768,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp c406ccc6-dcde-464f-912e-0b297f6007a4)
-    (at 561.65 410.765)
+    (at 443.45 254.84)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -24939,7 +24939,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c878aa39-ba27-4a25-b8b6-dd853e5d2b4c)
-    (at 504.69 437.075)
+    (at 386.49 281.15)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25065,7 +25065,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp c90b3c8d-37d4-47c3-9634-29fce5a53796)
-    (at 481.51 433.725)
+    (at 363.31 277.8)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25137,7 +25137,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp caaee1b0-d477-49c0-bb55-cef444eaa814)
-    (at 487.305 410.275)
+    (at 369.105 254.35)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25269,7 +25269,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp cba9f3c6-6186-4a9e-af93-853175061db5)
-    (at 487.305 420.325)
+    (at 369.105 264.4)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25341,7 +25341,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp cbcf8a2c-6e10-4643-8f1a-8479fc6ef4a1)
-    (at 550.17 412.735)
+    (at 431.97 256.81)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25395,7 +25395,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp ce59c2c3-0d07-4dc2-818b-0ea0e71db0cc)
-    (at 555.91 402.885)
+    (at 437.71 246.96)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25683,7 +25683,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp d260542f-6aa3-47b5-8d21-0726c8678852)
-    (at 493.1 420.325)
+    (at 374.9 264.4)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25755,7 +25755,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp d344dd1a-b708-4d1b-b90f-d057d6c21586)
-    (at 558.78 420.615)
+    (at 440.58 264.69)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25809,7 +25809,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp d762bac1-95bb-4379-afe3-6a901e760494)
-    (at 558.78 402.885)
+    (at 440.58 246.96)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -25985,7 +25985,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp d96945ff-9ba9-4596-bf6c-7cb3341ee1d7)
-    (at 547.3 410.765)
+    (at 429.1 254.84)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26039,7 +26039,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp d9ad02c2-1ca6-411c-b9bf-1017a5e8a8de)
-    (at 550.17 424.555)
+    (at 431.97 268.63)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26447,7 +26447,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp dd0dc30b-621c-43bc-a637-2e2e77f032a6)
-    (at 553.04 404.855)
+    (at 434.84 248.93)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26618,7 +26618,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp dfeac0da-ec25-4af9-9306-b32dabe024a1)
-    (at 498.895 437.075)
+    (at 380.695 281.15)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26690,7 +26690,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp dff12c51-1b0c-4ffd-80df-f1ca38abb8dc)
-    (at 504.69 440.425)
+    (at 386.49 284.5)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26762,7 +26762,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e0013bc0-1970-4fb8-b730-4a97c2ab8cad)
-    (at 481.51 430.375)
+    (at 363.31 274.45)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -26951,7 +26951,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e0d2a081-3792-4298-b1c4-b2a350b74191)
-    (at 469.92 440.425)
+    (at 351.72 284.5)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27140,7 +27140,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp e0fc3af2-8bbc-423f-8def-b6d75f01ec27)
-    (at 550.17 420.615)
+    (at 431.97 264.69)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27194,7 +27194,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp e18a325e-eee6-4665-b43b-09a30916c61b)
-    (at 547.3 418.645)
+    (at 429.1 262.72)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27425,7 +27425,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp e27fd25e-78d9-431e-8e58-6dbe8352e114)
-    (at 547.3 404.855)
+    (at 429.1 248.93)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27479,7 +27479,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e2f41ff9-901d-42e4-bf73-4b77f05d9a3d)
-    (at 469.92 427.025)
+    (at 351.72 271.1)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27668,7 +27668,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp e41db3ac-7906-41a3-a714-16d45c63b4e9)
-    (at 553.04 420.615)
+    (at 434.84 264.69)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27782,7 +27782,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e4bbc242-d4d0-495c-9e51-03612e338fdc)
-    (at 487.305 403.575)
+    (at 369.105 247.65)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -27854,7 +27854,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e5ef007c-319f-4c72-903e-95e7bf04128b)
-    (at 487.305 430.375)
+    (at 369.105 274.45)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28043,7 +28043,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e6d3205a-6511-40f3-a8ae-b580627a76fe)
-    (at 487.305 416.975)
+    (at 369.105 261.05)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28174,7 +28174,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e734f2b2-f17d-4232-96b7-aae750ffea22)
-    (at 504.69 423.675)
+    (at 386.49 267.75)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28306,7 +28306,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e8e097cc-6f60-463e-a306-39047599e2da)
-    (at 469.92 437.075)
+    (at 351.72 281.15)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28495,7 +28495,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp e937bdec-8fff-4a12-9932-d429a8ddc166)
-    (at 464.125 433.725)
+    (at 345.925 277.8)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28567,7 +28567,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ea06aa9b-c5e4-4718-a441-9d58a3f77001)
-    (at 498.895 440.425)
+    (at 380.695 284.5)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -28927,7 +28927,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp ebcc2ead-4a55-43dd-82d5-95dd93c036c6)
-    (at 547.3 414.705)
+    (at 429.1 258.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -29215,7 +29215,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp ed13d785-8445-49f9-81b8-ad2b1d0d0528)
-    (at 558.78 408.795)
+    (at 440.58 252.87)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -29269,7 +29269,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp ef63dd2a-e1c6-4afa-bba2-86af3fdcbf44)
-    (at 481.51 410.275)
+    (at 363.31 254.35)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -29341,7 +29341,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp ef9c445b-22db-443d-a85a-ab7758e8ffb5)
-    (at 550.17 418.645)
+    (at 431.97 262.72)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -29572,7 +29572,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp f02425f1-fd0b-452d-b94a-04e83dd8672c)
-    (at 550.17 414.705)
+    (at 431.97 258.78)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30037,7 +30037,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp f66c01f3-e386-4f59-b4f1-c4fa162eeedd)
-    (at 541.56 422.585)
+    (at 423.36 266.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30676,7 +30676,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp faab3717-6ca1-4364-9166-312cc8f4a364)
-    (at 547.3 420.615)
+    (at 429.1 264.69)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "kaiso.kicad_sch")
@@ -30980,7 +30980,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tstamp fcf1e6ad-ba4a-4585-95ad-3b7d33b26b35)
-    (at 469.92 403.575)
+    (at 351.72 247.65)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "kaiso.kicad_sch")
